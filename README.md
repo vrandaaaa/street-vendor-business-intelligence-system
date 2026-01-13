@@ -68,7 +68,7 @@ This project provides a lightweight web-based BI system where:
 ---
 
 ## 👤 Author
-**Vranda**  
+**Vranda Singhania**  
 Bachelor of Computer Applications (BCA)
 
 > This project focuses on solving a real-world problem using simple, scalable technology rather than complex theoretical implementations.
